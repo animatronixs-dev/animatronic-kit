@@ -9,6 +9,8 @@ Based on "How You Can Build a Homemade Animatronic" at https://www.youtube.com/w
 
 Based on "How You Can Build an Animatronic... Update!" at https://www.youtube.com/watch?v=Akd8Qtfhnqc
 
+Based on "Animatronics For Beginners?: Maxwell From Bottango" at https://www.youtube.com/watch?v=qsVm2oIeTNk
+
 Based on "Animatronixs on Facebook" at ...
 
 ## 100 - Introduction
