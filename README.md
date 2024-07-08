@@ -5,6 +5,8 @@ Based on "Animatronic Kit: Maxwell" at https://www.bottango.com/products/maxwell
 
 Based on "Controlling our Animatronic "Dragon" with Home Assistant Voice" at https://www.youtube.com/watch?v=aR0qSIRDQpg
 
+Based on "How You Can Build a Homemade Animatronic" at https://www.youtube.com/watch?v=XySajWa3E_M
+
 Based on "Animatronixs on Facebook" at ...
 
 ## 100 - Introduction
