@@ -1,7 +1,11 @@
-repository-name
-# Repository Name
+animatronic-kit
+# Animatronic Kit
 
-Based on "ABC" at https://www.abc.com/
+Based on "Animatronic Kit: Maxwell" at https://www.bottango.com/products/maxwell-1
+
+Based on "Controlling our Animatronic "Dragon" with Home Assistant Voice" at https://www.youtube.com/watch?v=aR0qSIRDQpg
+
+Based on "Animatronixs on Facebook" at ...
 
 ## 100 - Introduction
 
